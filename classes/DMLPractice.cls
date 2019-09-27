@@ -4,6 +4,10 @@ public with sharing class DMLPractice {
         // method B
     }
 
+    public static void methodA() {
+        // method A
+    }
+
     // Создать в апекс 5 контактов с любыми именами. Сохранить их в БД.
     public static void insertFiveContacts() {
         
